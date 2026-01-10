@@ -55,8 +55,6 @@ The project includes Bash scripts to simplify infrastructure management:
 
 - `deploy_infra.sh` – One-command infrastructure deployment
 
-These scripts help reduce human error and support CI/CD workflows.
-
 ---
 
 ## 🛠️ Technologies
@@ -69,7 +67,7 @@ These scripts help reduce human error and support CI/CD workflows.
 
 ## 👤 Author
 
-**Vaibhav**  
+**Vaibhav Umbarkar**  
 DevOps | AWS | Terraform
 
 ---
