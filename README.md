@@ -53,7 +53,7 @@ All resources are created and managed using **Terraform modules**.
 
 The project includes Bash scripts to simplify infrastructure management:
 
-- `deploy_infra.sh` – One-command infrastructure deployment
+- `create_infra.sh` – One-command infrastructure deployment
 
 ---
 
