@@ -3,8 +3,6 @@
 This repository contains a **production-style AWS infrastructure** built using **Terraform (Infrastructure as Code)**.  
 The project demonstrates how to design, deploy, and manage a **secure, scalable, and highly available cloud architecture** on AWS.
 
-It is intended for **learning, portfolio showcase, and real-world DevOps practices**.
-
 ---
 
 ## 🔍 What This Project Is For
@@ -65,9 +63,9 @@ The project includes Bash scripts to simplify infrastructure management:
 
 ---
 
-## 👤 Author
+## 👤 Dev
 
 **Vaibhav Umbarkar**  
-DevOps | AWS | Terraform
+DevOps | AWS | Terraform | Shell Scripting
 
 ---
